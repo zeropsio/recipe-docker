@@ -7,5 +7,5 @@ services:
   - hostname: app
     type: docker@26.1.5
     buildFromGit: https://github.com/zeropsio/recipe-docker
-    enabledSubdomainAccess: true
+    enableSubdomainAccess: true
 ```
