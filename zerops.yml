@@ -1,5 +1,5 @@
 zerops:
-  - setup: docker 
+  - setup: app 
     run:
       base: docker@26.1
       # download and cache docker image
