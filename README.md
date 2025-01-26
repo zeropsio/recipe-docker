@@ -2,7 +2,7 @@
 
 ```yaml
 project:
-  name: docker
+  name: recipe-docker
 services:
   - hostname: app
     type: docker@26.1.5
